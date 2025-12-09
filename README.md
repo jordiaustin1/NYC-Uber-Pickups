@@ -1,7 +1,7 @@
 NYC Uber Pickups — Data Engineering & Data Analysis Project
-Author: Jordi
-Tools Used: Python, MySQL, Tableau, VS Code
-Dataset: Uber Pickups in NYC (FiveThirtyEight)
+Author: Jordi.
+Tools Used: Python, MySQL, Tableau, VS Code.
+Dataset: Uber Pickups in NYC (FiveThirtyEight).
 
 Project Overview
 
