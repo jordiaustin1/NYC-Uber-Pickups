@@ -56,8 +56,7 @@ Key Insights:
 
 
 How to Reproduce
-1. Clone this repo:
-git clone https://github.com/YOUR-USERNAME/nyc-uber-pickups.git
+1. Clone this repo
 
 2. Run ETL
 python scripts/etl_uber.py
